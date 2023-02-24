@@ -4,7 +4,7 @@
 const char * ssid = "virus";
 const char * password = "a1b2c3d4";
 
-
+//@author Alvaro
 /**
  * @brief Esta es la funcion de configuracion del dispositivo
  * 
