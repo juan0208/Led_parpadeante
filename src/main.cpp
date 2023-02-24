@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+//@author Alvaro
 /**
  * @brief Esta es la funcion de configuracion del dispositivo
  * 
